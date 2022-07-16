@@ -3,7 +3,7 @@ import { join } from 'path'
 import { xpRange } from '../lib/levelling.js'
 import Canvas from "discord-canvas"
 
-}
+let tags = {}
 let emot = `${pickRandom(['⎔', '✦', '⭑', 'ᯬ', '⭔', '◉', '⬟', '▢', '᭻', '»', '〆', '々', '⛥', '✗', '⛊', '⚜', '⚝', '⚚', '♪'])}`
 const defaultMenu = {
   before: `
