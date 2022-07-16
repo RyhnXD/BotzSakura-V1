@@ -934,7 +934,7 @@ global.dfail = (type, m, conn) => {
         unreg: 'Silahkan daftar untuk menggunakan fitur ini dengan cara mengetik:\n\n*#daftar nama.umur*\n\nContoh: *#daftar Dani.17*',
         restrict: 'This feature is *disabled*!'
     }[type]
-     let frep = { contextInfo: { externalAdReply: {title: wm, body: 'Yang masuk jdi animek 😏👆', sourceUrl: sgc, thumbnail: fs.readFileSync('./thumbnail.jpg')}}}
+     if (msg) return conn.sendHydrated2(m.chat, msg, author, `${logo}`, `${webs}`, "Website", `${gcwangsaf}`, "GROUP WHATSAPP", [["Owner", ".donasi"]], m)
 }
 
 let file = global.__filename(import.meta.url, true)
