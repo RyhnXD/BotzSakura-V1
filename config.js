@@ -64,7 +64,7 @@ global.apikeys = keyalpha
 
 /*Number*/
 global.nomorbot = '6285171216276'
-global.nomorown = '6282195322106'
+global.nomorown = '6289524208209'
 global.namebot = 'ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ'
 global.nameown = 'Oᴡɴᴇʀ ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ'
 
@@ -368,7 +368,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 /*Link*/
 global.sig = 'https://instagram.com/wudysoft.2'
 global.sgh = 'https://github.com/RyhnXD'
-global.sgc = 'https://chat.whatsapp.com/I2cagI7uWN59oxMomPQvfM'
+global.sgc = 'https://chat.whatsapp.com/KOughnpmtzzF0k9aX78CVq'
 global.sdc = 'https://github.com/RyhnXD'
 global.snh = 'https://github.com/RyhnXD'
 
